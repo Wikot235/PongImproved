@@ -1,4 +1,4 @@
-# PongPlusPlus
+# PongImproved
 PongImproved, an improved version of famous pong game. Enjoy!
 
 Written in C++, made with Raylib.
